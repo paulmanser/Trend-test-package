@@ -1,4 +1,4 @@
-## help function for generating mean matrix for combinatorial piecewise linear
+## help function to automatically generate mean matrix for combinatorial piecewise linear
 
 k<-4
 doses<-seq(0,k,1)
