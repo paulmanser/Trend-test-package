@@ -9,3 +9,5 @@ To install:
                  library("devtools")
                  
                  install_github("Henan1111/Trend-test-package")
+                 
+                 library("Trend")
