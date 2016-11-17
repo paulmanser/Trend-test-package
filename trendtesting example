@@ -1,3 +1,5 @@
+
+## p value calculation
 load(DoseFinding)
 transformDoses<-function(doses,mindose,mult) {
 log(1+(mult/mindose)*doses)
